@@ -1,0 +1,2 @@
+# Sruthiprojectpractice
+Devops practice 
